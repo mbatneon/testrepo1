@@ -1,13 +1,17 @@
 blah
 blah
-blah
 
-this line added in test branch
+one more linea
 
+another line
+
+
+
+
+
+<<<<<<< HEAD
 one more line
 
-this line added in master branch
 
-
-
-
+=======
+>>>>>>> test
